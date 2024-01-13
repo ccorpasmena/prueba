@@ -1,6 +1,6 @@
 public class ReinvertirNumero {
     public static void main(String[] args) {
-        int numero=123456;
+        int numero=1234567;
         int numeroInvertido=invertirNumero(numero);
         System.out.println("Numero reinvertido: "+numeroInvertido);
     }
